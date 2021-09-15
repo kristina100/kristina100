@@ -1,9 +1,5 @@
 ### Hi there 👋 ~ This is Kristina.
 
-#### Mail
-
-[![Mail Badge](https://mail.163.com/js6/main.jsp?sid=WDaESFdAeNWPIhHkyVAADpaBMgBmOWbV&df=mailmaster_mail_mail163#module=welcome.WelcomeModule%7C%7B%7D)]
-
 
 
 #### GitHub Stats Card
